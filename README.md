@@ -35,6 +35,18 @@ With a focus on configurability and stability, the trainer is kept compatible wi
 
 ---
 
+## ❗ Screenshot
+![img1](/assets/image.png)
+
+
+![img2](/assets/image2.png)
+
+![img2](/assets/image3.png)
+
+![img2](/assets/image4.png)
+
+---
+
 ## Installation
 1. Download the latest build from the [release](../../releases) section.  
 2. Follow the included setup guide inside the archive.  
