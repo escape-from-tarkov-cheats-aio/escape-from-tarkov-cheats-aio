@@ -1,6 +1,6 @@
 # Escape from Tarkov – Trainer Tool
 
-[![Download](https://img.shields.io/badge/Download-Full%20Version-purple)](../../release)
+[![Download](https://img.shields.io/badge/Download-Full%20Version-purple)](../../releases)
 
 ## Overview
 This project is a **multi-functional trainer for Escape from Tarkov**, designed with flexibility, customization, and testing in mind.  
@@ -36,7 +36,7 @@ With a focus on configurability and stability, the trainer is kept compatible wi
 ---
 
 ## Installation
-1. Download the latest build from the [release](../../release) section.  
+1. Download the latest build from the [release](../../releases) section.  
 2. Follow the included setup guide inside the archive.  
 3. Launch the tool before starting the game.  
 4. Use the in-game menu (default hotkey provided) to activate or customize features.  
