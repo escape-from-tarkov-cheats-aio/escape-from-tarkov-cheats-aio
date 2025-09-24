@@ -1,4 +1,4 @@
-# Escape from Tarkov – Trainer Tool
+# Escape from Tarkov – Tool
 
 [![Download](https://img.shields.io/badge/Download-Full%20Version-purple)](../../releases)
 
