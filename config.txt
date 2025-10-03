@@ -1,0 +1,2 @@
+# Planning
+Check monitoring alerts
